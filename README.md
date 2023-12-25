@@ -13,8 +13,8 @@ The data is organized as follows:
     |-- 0001.png
     ...
 |-- weight
-    |-- 0000.png        # uncertainty weight for each view
-    |-- 0001.png
+    |-- 0000.npy        # uncertainty weight for each view
+    |-- 0001.npy
     ...
 |-- pose
     |-- 0000.txt        # camera pose for each view
@@ -37,7 +37,6 @@ pip install -r requirements.txt
 ```
 
 ### Training
-
 ```
 python ./exp_runner.py --mode train --conf ./confs/scannet_0050.conf --gpu 0
 ```
