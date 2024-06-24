@@ -27,6 +27,7 @@ The data is organized as follows:
 |-- xxx.ply		# GT mesh or point cloud from MVS
 |-- trans_n2w.txt       # transformation matrix from normalized coordinates to world coordinates
 ```
+For the weight of our uncertainty estimation module (U-Net), here is the download link: https://drive.google.com/file/d/18mvYnUISLIG9yKdbWeKgHiB5yZ_6Eym6/view?usp=sharing
 
 ### Setup
 ```
