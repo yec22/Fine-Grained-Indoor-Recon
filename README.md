@@ -27,7 +27,9 @@ The data is organized as follows:
 |-- xxx.ply		# GT mesh or point cloud from MVS
 |-- trans_n2w.txt       # transformation matrix from normalized coordinates to world coordinates
 ```
-Please refer to `scripts/preprocess.sh` for step-by-step data processing. For the weight of our uncertainty estimation module (U-Net), here is the download link: https://drive.google.com/file/d/18mvYnUISLIG9yKdbWeKgHiB5yZ_6Eym6/view?usp=sharing
+Please refer to `scripts/preprocess.sh` for step-by-step data processing. We also provide demo pre-processed data ([download](https://pan.baidu.com/s/1UBCoxkOSBmt_LLVYbeSq4A?pwd=r2rx)), which can be directly reconstructed using our method.
+
+For the weight of our uncertainty estimation module (U-Net), here is the download link: https://drive.google.com/file/d/18mvYnUISLIG9yKdbWeKgHiB5yZ_6Eym6/view?usp=sharing
 
 ### Setup
 ```
