@@ -1,5 +1,5 @@
 # Indoor Scene Reconstruction with Fine-Grained Details
-We propose a new method for high quality reconstruction of indoor scenes using Hybrid Representation and Normal Prior Enhancement.
+We propose a new method for high quality reconstruction of indoor scenes using Hybrid Representation and Normal Prior Enhancement. The paper has been accepted by **TVCG**.
 
 <img src="assets/teaser.png">
 
